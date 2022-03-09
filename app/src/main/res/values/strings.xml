@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WashList</string>
+    <!--address-->
+    <string name="address_hint_name">Full name</string>
+    <string name="address_hint_mobile">Mobile</string>
+    <string name="address_hint_flat_number">Address(Flat no., House No., Building Apartment)</string>
+    <string name="address_hint_landmark">Landmark(optional)</string>
+</resources>

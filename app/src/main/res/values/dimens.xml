@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--address-->
+    <dimen name="address_editview_height">30dp</dimen>
+    <dimen name="address_editview_text_size">10sp</dimen>
+    <dimen name="address_editview_margin_horizontal">12dp</dimen>
+
+    <dimen name="rounded_rectangle_corner_radius">10dp</dimen>
+</resources>
